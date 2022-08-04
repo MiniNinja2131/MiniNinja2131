@@ -14,9 +14,9 @@ I'm Danny, a Computer Science and Artificial Intelligence Graduate from the Univ
 
 
 ## Experience
-| Hangman (Python) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman) |   |   |   |
+| Hangman (Python) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman) | Tic-Tac-Toe with AI (Python) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman) | MineSweeper (Python) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman) | Rock Paper Scissors (Python) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman)|
 |:---:|:---:|:---:|:---:|
-| Hangman (Python) </br> | Hangman (Python) | Hangman (Python) | Hangman (Python) |
+| Monopoly with AI (Java) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman) | Hangman (Python) | Hangman (Python) | 3D Web Application </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman) |
 
 
 
