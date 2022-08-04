@@ -16,7 +16,7 @@ I'm Danny, a Computer Science and Artificial Intelligence Graduate from the Univ
 ## Experience
 | Hangman (🐍) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman) | Tic-Tac-Toe with AI (🐍) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman) | MineSweeper (🐍) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman) | Rock Paper Scissors (🐍) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman)|
 |:---:|:---:|:---:|:---:|
-| Hill-Climber (🐍) | Monopoly with AI players (☕) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman) | Banking Application (☕) | 3D Web Application (💻,📰,📄,💠) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman) |
+| Hill-Climber (🐍) | Monopoly with AI players (☕) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/jev-e/software-eng-magnificent-6) | Banking Application (☕) | 3D Web Application (💻,📰,📄,💠) </br> [<img width="128px" src="https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif"/>](https://github.com/MiniNinja2131/Hangman) |
 
 
 
