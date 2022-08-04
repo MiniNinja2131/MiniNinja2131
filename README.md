@@ -11,6 +11,10 @@ I'm Danny, a Computer Science and Artificial Intelligence Graduate from the Univ
 | 📄 PHP  | 💠 3D Modelling  |
 
 ## Experience
-
+| 🐍 Python </br> <img src = "https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif" width ="128"/>  | ☕ Java |
+| :-------------: | :-------------: |
+| 💻 HTML, CSS, JS  | 📰 SQL  |
+| 📄 PHP  | 💠 3D Modelling  |
+<img src = "https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif" width ="128"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MiniNinja2131)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/danny-che-157b53225//)  
