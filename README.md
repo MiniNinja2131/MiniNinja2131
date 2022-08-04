@@ -14,7 +14,7 @@ I'm Danny, a Computer Science and Artificial Intelligence Graduate from the Univ
 
 
 ## Experience
-[![name](https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif)]("https://github.com/MiniNinja2131/Hangman")
+[![name](https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif)](https://github.com/MiniNinja2131/Hangman)
 | [![Hangman (Python)]("https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif")]("https://github.com/MiniNinja2131/Hangman") |   |   |   |
 |:---:|:---:|:---:|:---:|
 | Hangman (Python) </br> <img src = "https://github.com/MiniNinja2131/MiniNinja2131/blob/master/clickHere.gif" width ="128" /> | Hangman (Python) | Hangman (Python) | Hangman (Python) |
