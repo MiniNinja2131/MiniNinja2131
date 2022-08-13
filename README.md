@@ -20,4 +20,5 @@ I'm Danny, a Computer Science and Artificial Intelligence Graduate from the Univ
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MiniNinja2131) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> <href="https://www.linkedin.com/in/danny-che-157b53225/">]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MiniNinja2131) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> <href="https://www.linkedin.com/in/danny-che-157b53225/"/>]
